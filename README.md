@@ -1,8 +1,10 @@
 # Protein Aggregation - Naëmi, Bella, Max
 
-## Introduction and approach (abstract?)
+## Introduction and approach
 
-Protein aggregation is a process where misfolded proteins accumulate and form larger structures, sometimes developing into amyloid fibrils or amorphous aggregates. This phenomenon is associated with several neurodegenerative diseases, for example amyloid fibrils are found in brains of Alzheimer’s and Parkinson’s patients. Cells have a protection system, called quality-control. They prevent the accumulation of misfolded proteins through refolding, degradation and disaggregation. However, when protein aggregation exceeds the capacity of these mechanisms, aggregates can accumulate and become difficult to reverse. The aims of this project is to investigate the interplay between protein aggregation and cellular quality-control mechanisms, focusing on the conditions under which protein aggregation becomes irreversible.
+Protein aggregation is a process where misfolded proteins accumulate and form larger structures, sometimes developing into amyloid fibrils or amorphous aggregates. This phenomenon is associated with several neurodegenerative diseases, for example amyloid fibrils are found in brains of Alzheimer’s and Parkinson’s patients[5]. Cells have a protection system, called quality-control[6]. It prevent the accumulation of misfolded proteins through refolding, degradation and disaggregation. However, when protein aggregation exceeds the capacity of these mechanisms, aggregates can accumulate and become difficult to reverse. The aim of this project is to investigate the interplay between protein aggregation and cellular quality-control mechanisms, focusing on the conditions under which protein aggregation becomes irreversible.
+
+In this project we will develop a stochastic model of protein folding, aggregation and capacity-limited QC, and simulate it with the GIllespie algorithm[11]. By varying the misfolding rate, QC capacity and the strength of transient stress, we investigate the competition between aggregation and QC, and identify the conditions under which aggregation is prevented, sustained or becomes irreversible.
 
 ## Repository overview and usage 
 
@@ -28,8 +30,8 @@ Protein aggregation is a process where misfolded proteins accumulate and form la
 
 [9] J. Bridstrup, J. S. Schreck, J. L. Jorgenson, and J.-M. Yuan, “Stochastic Kinetic Treatment of Protein Aggregation and the Effects of Macromolecular Crowding,” The Journal of Physical Chemistry B, vol. 125, no. 23, pp. 6068–6079, Jun. 2021, doi: 10.1021/acs.jpcb.1c00959.
 
-[10] J. A. J. Housmans, G. Wu, J. Schymkowitz, and F. Rousseau, “A guide to studying protein aggregation,” The FEBS Journal, vol. 290, no. 3, pp. 554–583, 2023, doi: 10.1111/febs.16312.
+[10] F. Carbonell, Y. Iturria-Medina, and A. C. Evans, “Mathematical Modeling of Protein Misfolding Mechanisms in Neurological Diseases: A Historical Overview,” Frontiers in Neurology, vol. 9, Art. no. 37, Feb. 2018, doi: 10.3389/fneur.2018.00037.
 
-[11] F. Carbonell, Y. Iturria-Medina, and A. C. Evans, “Mathematical Modeling of Protein Misfolding Mechanisms in Neurological Diseases: A Historical Overview,” Frontiers in Neurology, vol. 9, Art. no. 37, Feb. 2018, doi: 10.3389/fneur.2018.00037.
+[11] D. T. Gillespie, “Exact stochastic simulation of coupled chemical reactions,” The Journal of Physical Chemistry, vol. 81, no. 25, pp. 2340–2361, 1977, doi: 10.1021/j100540a008.
 
 ## Contributions
