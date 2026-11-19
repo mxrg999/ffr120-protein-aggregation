@@ -24,4 +24,12 @@ Protein aggregation is a process where misfolded proteins accumulate and form la
 
 [7] R.-N. Liu and Y.-M. Kang, “Stochastic master equation for early protein aggregation in the transthyretin amyloid disease,” Scientific Reports, vol. 10, Art. no. 12437, Jul. 2020, doi: 10.1038/s41598-020-69319-x.
 
+[8] J.-L. Shen, M.-Y. Tsai, N. P. Schafer, and P. G. Wolynes, “Modeling Protein Aggregation Kinetics: The Method of Second Stochasticization,” The Journal of Physical Chemistry B, vol. 125, no. 4, pp. 1118–1133, Feb. 2021, doi: 10.1021/acs.jpcb.0c10331.
+
+[9] J. Bridstrup, J. S. Schreck, J. L. Jorgenson, and J.-M. Yuan, “Stochastic Kinetic Treatment of Protein Aggregation and the Effects of Macromolecular Crowding,” The Journal of Physical Chemistry B, vol. 125, no. 23, pp. 6068–6079, Jun. 2021, doi: 10.1021/acs.jpcb.1c00959.
+
+[10] J. A. J. Housmans, G. Wu, J. Schymkowitz, and F. Rousseau, “A guide to studying protein aggregation,” The FEBS Journal, vol. 290, no. 3, pp. 554–583, 2023, doi: 10.1111/febs.16312.
+
+[11] F. Carbonell, Y. Iturria-Medina, and A. C. Evans, “Mathematical Modeling of Protein Misfolding Mechanisms in Neurological Diseases: A Historical Overview,” Frontiers in Neurology, vol. 9, Art. no. 37, Feb. 2018, doi: 10.3389/fneur.2018.00037.
+
 ## Contributions
